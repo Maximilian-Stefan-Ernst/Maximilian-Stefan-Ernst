@@ -10,4 +10,6 @@ If you are here for our structural equation modeling julia package, you can find
 
 🔭 I’m currently working on voxel wise neuroimaging analysis.
 
+![](profile-3d-contrib/profile-gitblock.svg)
+
 ![](https://maximilian-stefan-ernst.github.io/Maximilian-Stefan-Ernst/github-contribution-grid-snake.svg)
