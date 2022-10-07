@@ -14,4 +14,4 @@ If you are here for our structural equation modeling julia package, you can find
 
 ![](https://maximilian-stefan-ernst.github.io/Maximilian-Stefan-Ernst/github-contribution-grid-snake.svg)
 
-[![Maximilians's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maximilian-Stefan-Ernst&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
+[![Maximilians's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maximilian-Stefan-Ernst&hide=stars&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
