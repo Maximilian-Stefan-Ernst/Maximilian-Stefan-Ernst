@@ -8,7 +8,7 @@ If you are here for our structural equation modeling julia package, you can find
 
 💬 Ask me about philosophy of science, statistics, or why I love [julia](https://julialang.org/).
 
-🔭 I’m currently working on voxel wise neuroimaging analysis.
+🔭 I’m currently working on voxel-wise neuroimaging analysis.
 
 ![](profile-3d-contrib/profile-gitblock.svg)
 
