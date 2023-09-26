@@ -1,5 +1,5 @@
 # Welcome to my GitHub profile!
-I'm a PhD student at the [Max Planck School of Cognition](https://cognition.maxplanckschools.org/en).
+I'm a PhD student at the [Max Planck School of Cognition](https://cognition.maxplanckschools.org/en/people/doctoral-candidates/2023).
 If you are here for our structural equation modeling julia package, you can find it [here](https://github.com/StructuralEquationModels/StructuralEquationModels.jl).
 
 🌱 I’m currently learning about XAI for psychological data.
